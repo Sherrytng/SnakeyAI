@@ -10,5 +10,5 @@ This project was made for CHC honor's thesis, advised by Assistant Professor Ioa
 - Download RLarray.bin into the same directory as Snakeybus.exe
 - Launch and play
 
-#How to play
+## How to play
 - Press 'I' key to activate the AI.
