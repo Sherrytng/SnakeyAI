@@ -4,7 +4,7 @@ This project was made for CHC honor's thesis, advised by Assistant Professor Ioa
 
 ## How To Install
 - Purchase and download Snakeybus from the Steam store.
-- Download (Melonloader)[https://github.com/LavaGang/MelonLoader]
+- Download [Melonloader](https://github.com/LavaGang/MelonLoader)
 - Install Melonloader version 6.1 onto Snakeybus game via MelonLoader Installer
 - Download SnakeyAI.dll into the Mods folder found in the game's directory
 - Download RLarray.bin into the same directory as Snakeybus.exe
