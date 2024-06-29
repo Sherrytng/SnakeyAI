@@ -7,4 +7,8 @@ This project was made for CHC honor's thesis, advised by Assistant Professor Ioa
 - Download (Melonloader)[https://github.com/LavaGang/MelonLoader]
 - Install Melonloader version 6.1 onto Snakeybus game via MelonLoader Installer
 - Download SnakeyAI.dll into the Mods folder found in the game's directory
+- Download RLarray.bin into the same directory as Snakeybus.exe
 - Launch and play
+
+#How to play
+- Press 'I' key to activate the AI.
